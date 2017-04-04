@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 2c33269572c5248bb877916b990681f0
+timeCreated: 1491331614
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A-Curve
+    100002: A-Dot-Curve
+    100004: E-Bottom-Curve
+    100006: E-Circle-Curve
+    100008: E-Curve
+    100010: E-Top-Curve
+    100012: J-Dot-Curve
+    100014: J-Stem-Curve
+    100016: L-Curve
+    100018: M-Curve
+    100020: //RootNode
+    400000: A-Curve
+    400002: A-Dot-Curve
+    400004: E-Bottom-Curve
+    400006: E-Circle-Curve
+    400008: E-Curve
+    400010: E-Top-Curve
+    400012: J-Dot-Curve
+    400014: J-Stem-Curve
+    400016: L-Curve
+    400018: M-Curve
+    400020: //RootNode
+    2300000: A-Curve
+    2300002: A-Dot-Curve
+    2300004: E-Bottom-Curve
+    2300006: E-Circle-Curve
+    2300008: E-Curve
+    2300010: E-Top-Curve
+    2300012: J-Dot-Curve
+    2300014: J-Stem-Curve
+    2300016: L-Curve
+    2300018: M-Curve
+    3300000: A-Curve
+    3300002: A-Dot-Curve
+    3300004: E-Bottom-Curve
+    3300006: E-Circle-Curve
+    3300008: E-Curve
+    3300010: E-Top-Curve
+    3300012: J-Dot-Curve
+    3300014: J-Stem-Curve
+    3300016: L-Curve
+    3300018: M-Curve
+    4300000: M-Curve
+    4300002: E-Curve
+    4300004: J-Dot-Curve
+    4300006: J-Stem-Curve
+    4300008: E-Top-Curve
+    4300010: E-Circle-Curve
+    4300012: L-Curve
+    4300014: A-Curve
+    4300016: A-Dot-Curve
+    4300018: E-Bottom-Curve
+    6400000: A-Curve
+    6400002: A-Dot-Curve
+    6400004: E-Bottom-Curve
+    6400006: E-Circle-Curve
+    6400008: E-Curve
+    6400010: E-Top-Curve
+    6400012: J-Dot-Curve
+    6400014: J-Stem-Curve
+    6400016: L-Curve
+    6400018: M-Curve
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
